@@ -27,13 +27,13 @@ sessionStorage.clear();
                         toast.success('Success');
                         sessionStorage.setItem('username',username);
                         sessionStorage.setItem('userrole',resp.role);
-                        usenavigate('/')
+                        usenavigate('/Home')
                     }else{
                         toast.error('Porfavor inserta bien los datos');
                     }
                 }
             }).catch((err) => {
-                toast.error('Loin fallo por :' + err.message);
+                toast.error('Login fallo por :' + err.message);
             });
         }
     }

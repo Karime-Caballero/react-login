@@ -14,7 +14,7 @@ const Home = () =>{
             </div>
             <h1>
                 home funciona!
-                Binvenido</h1>
+                Bienvenido</h1>
                 <div>
                     
                 <a>A la pagina de Karime Alejandra Caballero Campos</a>

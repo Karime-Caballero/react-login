@@ -35,6 +35,12 @@
       "name": "Caballero",
       "password": "852",
       "email": "carme@gmail.com"
+    },
+    {
+      "id": "Luis",
+      "name": "Rodrigues ",
+      "password": "123",
+      "email": "karime@gmail.com"
     }
   ]
 }
