@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": "Karime",
+      "name": "Karime Alejandra Caballero",
+      "password": "123",
+      "email": "karimeale@gmai.com"
+    },
+    {
+      "id": "Karime",
+      "name": "Karime Alejandra Caballero",
+      "password": "",
+      "email": "karimeale@gmai.com"
+    },
+    {
+      "id": "Karime",
+      "name": "Karime Alejandra Caballero",
+      "password": "",
+      "email": "karimeale@gmai.com"
+    },
+    {
+      "id": "Carmen",
+      "name": "Carmen Caballero",
+      "password": "852",
+      "email": "carmen@gmail.com"
+    },
+    {
+      "id": "Alejandro",
+      "name": "Caballero Mejía",
+      "password": "123",
+      "email": "caballero@gmail.com"
+    },
+    {
+      "id": "Carmen12",
+      "name": "Caballero",
+      "password": "852",
+      "email": "carme@gmail.com"
+    }
+  ]
+}
